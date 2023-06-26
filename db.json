@@ -1,9 +1,36 @@
 {
-  "posts": [
-    { "id": 1, "title": "json-server", "author": "typicode" }
-  ],
-  "comments": [
-    { "id": 1, "body": "some comment", "postId": 1 }
-  ],
-  "profile": { "name": "typicode" }
+  "Agendamentos": [
+    {
+      "id": "0",
+      "data": "00/00/0000",
+      "hora": "00:00",
+      "limpeza": "nc",
+      "placa": "aaa1a1",
+      "responsavel": "nc"
+    },
+    {
+      "id": "1",
+      "data": "00/00/0001",
+      "hora": "00:01",
+      "limpeza": "nc2",
+      "placa": "aaa1a12",
+      "responsavel": "nc2"
+    },
+    {
+      "id": "2",
+      "data": "00/00/0001",
+      "hora": "00:01",
+      "limpeza": "nc2",
+      "placa": "aaa1a12",
+      "responsavel": "nc2"
+    },
+    {
+      "id": "13",
+      "data": "00/00/0001",
+      "hora": "00:01",
+      "limpeza": "nc2",
+      "placa": "aaa1a12",
+      "responsavel": "nc2"
+    }
+  ]
 }
